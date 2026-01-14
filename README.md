@@ -68,6 +68,6 @@ https://policies.google.com/privacy?hl=ja
 
 制定日
 
-2025年 ○月 ○日
+2026年 1月 14日
 # smart-kakeibo-privacy
 スマート家計簿
