@@ -61,8 +61,8 @@ https://policies.google.com/privacy?hl=ja
 
 本プライバシーポリシーに関するお問い合わせは、以下までご連絡ください。
 	•	アプリ名：SmartKakeibo
-	•	開発者：個人開発者
-	•	連絡先：※App Store Connect に登録するメールアドレス
+	•	開発者：RSK
+	•	連絡先：kidryo0720@me.com
 
 ⸻
 
